@@ -1,5 +1,7 @@
 /.idea/
 *txt
 *.iml
+*.doc
 *.docx
 *.pdf
+/__pycache__

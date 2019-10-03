@@ -15,13 +15,7 @@ def generate_list(size):
 
 
 def main():
-    sizes = []
-    sizes.append(100)
-    sizes.append(1000)
-    sizes.append(5000)
-    sizes.append(10000)
-    sizes.append(50000)
-    for i in sizes:
+    for i in range(10000, 50001, 10000):
         #print("Generating list...")
         arr = generate_list(i)
         #print("Done.")
@@ -35,7 +29,7 @@ def main():
         #print("Stopped timer.")
         taken = stop_time - curr_time
         # print(arr)
-        print("{:<6} elements took {:<3.6f} seconds.".format(i, taken))
+        print("{:<5} elements took {:10.6f} seconds.".format(i, taken))
 
 
 if __name__ == '__main__':
