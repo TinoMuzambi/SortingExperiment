@@ -15,7 +15,7 @@ def generate_list(size):
 
 
 def main():
-    for i in range(10000, 50001, 10000):
+    for i in range(10000, 100001, 10000):
         #print("Generating list...")
         arr = generate_list(i)
         #print("Done.")
