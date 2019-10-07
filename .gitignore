@@ -5,3 +5,8 @@
 *.docx
 *.pdf
 /__pycache__
+*.RData
+*.Rhistory
+*.csv
+*.R
+fix.py
