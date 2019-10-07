@@ -1,0 +1,54 @@
+10000 elements took   6.938702 seconds.
+20000 elements took  26.911451 seconds.
+30000 elements took  60.637686 seconds.
+40000 elements took 107.801854 seconds.
+50000 elements took 168.869211 seconds.
+
+10000 elements took   6.744365 seconds.
+20000 elements took  26.950342 seconds.
+30000 elements took  60.511050 seconds.
+40000 elements took 108.262897 seconds.
+50000 elements took 168.061650 seconds.
+
+10000 elements took   6.734882 seconds.
+20000 elements took  26.915171 seconds.
+30000 elements took  60.593409 seconds.
+40000 elements took 107.601962 seconds.
+50000 elements took 169.099486 seconds.
+
+10000 elements took   6.731772 seconds.
+20000 elements took  27.149021 seconds.
+30000 elements took  60.545752 seconds.
+40000 elements took 108.070625 seconds.
+50000 elements took 168.120493 seconds.
+
+10000 elements took   6.743021 seconds.
+20000 elements took  26.913596 seconds.
+30000 elements took  60.610465 seconds.
+40000 elements took 107.820750 seconds.
+50000 elements took 168.682913 seconds.
+
+10000 elements took   6.748274 seconds.
+20000 elements took  27.157753 seconds.
+30000 elements took  60.528652 seconds.
+40000 elements took 107.751071 seconds.
+50000 elements took 168.610289 seconds.
+
+10000 elements took   6.737952 seconds.
+20000 elements took  26.902259 seconds.
+30000 elements took  60.599122 seconds.
+40000 elements took 107.841745 seconds.
+50000 elements took 168.570945 seconds.
+
+10000 elements took   6.722186 seconds.
+20000 elements took  26.952989 seconds.
+30000 elements took  60.784995 seconds.
+40000 elements took 108.379183 seconds.
+50000 elements took 168.850384 seconds.
+
+10000 elements took   6.771013 seconds.
+20000 elements took  27.509310 seconds.
+30000 elements took  61.449699 seconds.
+40000 elements took 107.800807 seconds.
+50000 elements took 168.470809 seconds.
+
